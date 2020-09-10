@@ -1,1 +1,2 @@
 # Responsive_Portfolio
+This website is a demo of a portfolio. You have your about me page, your projects page (portfolio), and your contacts page. Each page has a navigation bar that brings you to any of the three pages. 

@@ -1,0 +1,18 @@
+body {
+  background-image: url(../images/oriental-tiles.png);
+}
+
+.navbar-brand {
+  background-color: teal;
+  color: white;
+}
+
+h1 {
+  color: teal;
+}
+.img img-thumbnail {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
